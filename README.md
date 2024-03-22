@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 About me
+
+Olá! Sou Huldreich, um entusiasta da tecnologia e estudante de Análise e Desenvolvimento de Sistemas (ADS). Este é o meu espaço no GitHub, onde compartilho projetos, códigos e aprendizados relacionados à minha jornada como desenvolvedor em formação.
